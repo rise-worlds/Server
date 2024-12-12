@@ -1,0 +1,13 @@
+{
+  "dependencies": [
+    "boost-asio",
+    "boost-chrono",
+    "boost-date-time",
+    "boost-filesystem",
+    "boost-iostreams",
+    "boost-program-options",
+    "boost-system",
+    "fmt",
+    "boost-signals2"
+  ]
+}
